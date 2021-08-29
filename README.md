@@ -1,7 +1,7 @@
-## Sngine Community Edition
+## ngineS Community Edition
 The Ultimate PHP Social Network Platform
 
-This repository is empty but it enables everyone who is usig Sngine to contribute for a community edition.
+This repository is empty but it enables everyone who is usig a clone of Sngine to contribute for a community edition.
 - You can post issues
 - we can have projects
 - a Wiki is available where people can contribute
